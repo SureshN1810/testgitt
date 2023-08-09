@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 this is first data
-=======
-this is first data
-this is second line
->>>>>>> branch1
